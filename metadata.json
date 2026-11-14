@@ -1,0 +1,8 @@
+{
+  "name": "Sweet Stack 甜點疊高高",
+  "description": "童趣手繪插畫風 2D 蛋糕疊疊樂手機遊戲，掌握鐘擺擺盪時機精準疊高蛋糕、體驗錯位裁切物理與關卡裝飾獎勵。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
